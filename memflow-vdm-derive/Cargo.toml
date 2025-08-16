@@ -2,7 +2,7 @@
 name = "memflow-vdm-derive"
 version = "0.1.0"
 authors = ["a2x"]
-edition = "2024"
+edition = "2021"
 readme = "../README.md"
 repository = "https://github.com/a2x/memflow-vdm"
 license = "MIT"
