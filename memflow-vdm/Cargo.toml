@@ -8,7 +8,7 @@ repository = "https://github.com/a2x/memflow-vdm"
 license = "MIT"
 
 [dependencies]
-memflow = "0.2"
+memflow = { git = "https://github.com/memflow/memflow" }
 memflow-vdm-derive = { path = "../memflow-vdm-derive" }
 thiserror = "2.0"
 winreg = "0.55"
